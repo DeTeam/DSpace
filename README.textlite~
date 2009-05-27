@@ -1,5 +1,0 @@
-DSpace - is an arcanoid-like lil' ruby-game. Spaceship follows your mouse and shoot by click. You shouldn't let enemies reach the bottom line.
-
-There are two types of bonuses:
-* blue one - ship speed
-* yellow one - one more cannon
